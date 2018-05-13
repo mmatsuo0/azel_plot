@@ -1,0 +1,17 @@
+OBJECT,X,Y,frame,color
+W3,2h27m,+61d52m,fk5,plum
+#NGC1333,3h29m00s,+31d20m00s,fk5,m
+#L1495,4h18m00s,27d37m00s,fk5,k
+Ori-IRc2,5h35m14.5s,-5d22m30s,fk5,g
+#S255,6h12m,+17d59m,fk5,c
+#IRC+10216,9h47m57.4s,+13d16m43.6s,fk5,c
+#L134N,15h54m12.2s,-2d49m42s,fk5,y
+#M17,18h20m,-16d10m,fk5,b
+#Serpens,18h29m,+1d14m,fk5,tan
+#G28.34+0.06,18h42m,-4d3m,fk5,gold
+#W43,18h47m,-1d56m,fk5,navy
+#AFGL2591,20h29m24.9s,+40d11m19.4s,fk5,indigo
+#DR21,20h39m1.6s,+42d19m38s,fk5,m
+#W75N,20h38m35.9s,+42d37m22s,fk5,y
+#NGC7538,23h13m37.2,+61d30m00s,fk5,b
+#W51,19h23m39.79s,+14d31m10.1s,fk5,b
